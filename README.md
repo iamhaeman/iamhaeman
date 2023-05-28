@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning
-- 👯 I’m looking to collaborate
 - 🤔 I’m looking for help
-- 💬 Ask me about
+- 💬 Ask me about iself
 <!--
 **haeman07/haeman07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
