@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning
 - 🤔 I’m looking for help
-- 💬 Ask me about iself
+- 💬 Ask me about * 
+- 😒 _Info Man_
 <!--
 **haeman07/haeman07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
